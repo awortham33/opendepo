@@ -2,9 +2,9 @@
  * by Cory Gibbons
  * @corygibbons
  */html{-webkit-font-smoothing:antialiased}
-body{background-color:#fbfbfb;font-family:Helvetica,Arial,Sans-serif;font-size:13px;line-height:1.6em;color:#3f3f3f;padding:40px 20px;margin:0}
-a{color:#3f3f3f;text-decoration:none}
-a:hover{color:#3f3f3f;padding-bottom:2px}
+body{background-color:#fbfbfb;font-family:Helvetica,Arial,Sans-serif;font-size:13px;line-height:1.6em;color:#ff9580;padding:40px 20px;margin:0}
+a{color:#ff9580;text-decoration:none}
+a:hover{color:#ff9580; ;padding-bottom:2px}
 h1{font-size:1em;font-weight:normal;margin:0 auto;padding:0 5px 0 0;display:inline}
 #container{margin:0 auto;padding:0}
 header.main{margin:60px auto 100px auto;padding:0 20px;text-align:center}
@@ -14,7 +14,7 @@ footer.primary-footer .load-more-entries:hover{background:#ebebeb}
 #posts{margin:0 auto;clear:both}
 .post{margin:0 20px 40px 20px;float:left;min-width:260px}
 .post iframe{width:100%;display:block}
-.post header{color:#b4b4b4;display:block;margin:0;padding:0;width:100%}
+.post header{color:#ff9580;display:block;margin:0;padding:0;width:100%}
 .caption{margin-top:20px}.single{width:260px;float:left}
 .single img{width:260px;line-height:0px;display:block}
 .double{width:560px;float:left}@media (max-width: 640px){.double{width:260px}}
@@ -23,7 +23,7 @@ footer.primary-footer .load-more-entries:hover{background:#ebebeb}
 .triple img{max-width:620px;display:block}
 .fade{display:none}
 .page{padding:0 0 0 5px}
-.page a{color:#cbcbcb}
+.page a{color:#ff9580}
 .load-more-posts{background:salmon;height:100px;width:200px;position:fixed;left:50%;top:50%}
 hr{background-color:#c7c7c7;height:1px;margin:0 0 10px 0;border:none}
 .navigation{margin:0 20px 40px 20px;border-top:1px solid #c7c7c7;padding:10px 0 0 0;width:260px;float:left;display:none}
