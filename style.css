@@ -29,7 +29,7 @@ hr{background-color:#c7c7c7;height:1px;margin:0 0 10px 0;border:none}
 .navigation{margin:0 20px 40px 20px;border-top:1px solid #c7c7c7;padding:10px 0 0 0;width:260px;float:left;display:none}
 .text h2{font-size:1.2em;margin:0 0 0.5em 0}
 .text h2 a:hover{border:none;color:#a5a5a5}
-.text .text-body a{text-decoration:underline;color:#3f3f3f}
+.text .text-body a{text-decoration:underline;color:#ff9580}
 .text .text-body a:hover{border:none;color:#a5a5a5}
 .text .text-body p{margin:0 0 1em 0}
 .text .text-body p:last-of-type{margin-bottom:0}
