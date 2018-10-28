@@ -1,7 +1,6 @@
 @font-face {
     font-family: 'tstar';
-    src: url('https://cdn.rawgit.com/awortham33/opendepo/blob/master/T-Star-heavy-webfont.woff');
-    src: url('https://cdn.rawgit.com/awortham33/opendepo/blob/master/T-Star-heavy-webfont.otf');
+    src: url('https://cdn.rawgit.com/awortham33/opendepo/blob/master/T-Star-heavy-webfont.ttf');
     font-weight: 100;
     font-style: normal;
     
